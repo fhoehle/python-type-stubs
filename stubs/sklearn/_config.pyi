@@ -1,5 +1,5 @@
 from collections.abc import Generator
-from contextlib import contextmanager as contextmanager
+from contextlib import contextmanager
 from typing import Literal
 
 from ._typing import Int
